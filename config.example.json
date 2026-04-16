@@ -1,0 +1,12 @@
+{
+  "target_url": "https://your-target.com",
+  "stored_check_url": null,
+  "login": {
+    "url": "",
+    "email_field_id": "",
+    "password_field_id": "",
+    "submit_btn_id": "",
+    "email": "",
+    "password": ""
+  }
+}
